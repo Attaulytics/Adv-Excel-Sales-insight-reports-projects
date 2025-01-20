@@ -1,1 +1,3 @@
 # Adv-Excel-Sales-insight-reports-projects
+##Fiscal Month Report##
+This project focuses on generating Profit and Loss (P&L) reports by fiscal month for 2019, 2020, and 2021, providing a clear overview of financial performance across these years. The analysis includes detailed comparisons of net sales, cost of goods sold (COGS), and gross margins, highlighting significant year-over-year growth, such as a 304% increase in 2021 compared to 2020. The report empowers businesses to evaluate financial trends, make informed decisions, and align strategic planning with organizational goals while offering insights for budgeting and forecasting.
