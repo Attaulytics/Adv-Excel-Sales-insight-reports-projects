@@ -5,4 +5,18 @@ This project focuses on generating Profit and Loss (P&L) reports by fiscal month
 #AtliQ Hardware Sales Report
 This report provides an in-depth analysis of AtliQ Hardware's sales performance from 2019 to 2021, highlighting a significant 304.48% growth in total sales over the three years. It includes detailed customer-wise sales data, year-over-year growth percentages, and insights into top-performing markets. The report serves as a tool for evaluating business trends, identifying opportunities for expansion, and supporting data-driven decision-making.
 
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
+
 
