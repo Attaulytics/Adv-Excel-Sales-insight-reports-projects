@@ -7,6 +7,10 @@ This project focuses on generating Profit and Loss (P&L) reports by fiscal month
 https://github.com/Attaulytics/Adv-Excel-Sales-insight-reports-projects/blob/main/atliq%20hardware%20report.pdf
 This report provides an in-depth analysis of AtliQ Hardware's sales performance from 2019 to 2021, highlighting a significant 304.48% growth in total sales over the three years. It includes detailed customer-wise sales data, year-over-year growth percentages, and insights into top-performing markets. The report serves as a tool for evaluating business trends, identifying opportunities for expansion, and supporting data-driven decision-making.
 
+#atliqmarket report
+https://github.com/Attaulytics/Adv-Excel-Sales-insight-reports-projects/blob/main/atliq%20market%20report.pdf
+
+
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
